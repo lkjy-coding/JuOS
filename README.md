@@ -5,8 +5,6 @@ A simple system project by C++.
 
 **Update details are Chinese only.** Please use translation tools while reading.
 
-**更新内容は中国語のみです。** 翻訳ツールをご利用ください。
-
 **업데이트 세부 사항은 중국어로만 제공됩니다.** 읽는 동안 번역 도구를 사용하십시오.
 
 **Los detalles de actualización son solo en chino.** Utilice las herramientas de traducción mientras lee.
